@@ -20,4 +20,3 @@ class Genre
     songs.map { |song| song.artist }
   end
 end
-  
